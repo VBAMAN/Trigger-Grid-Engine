@@ -1,0 +1,29 @@
+# Concept
+
+Trigger-Grid-Engine is not a typical Excel tool.
+
+It is an engine.
+
+Instead of writing logic in code,
+logic is placed on the grid using triggers.
+
+Cells do not contain colors or behavior.
+They only contain simple codes.
+
+Everything else is resolved by the engine.
+
+---
+
+## Philosophy
+
+Pick the logic.
+Place it on the grid.
+
+---
+
+## Why this matters
+
+- No hardcoded row/column logic
+- Fully data-driven
+- Rebuildable from saved state
+- Visual and programmable at the same time
